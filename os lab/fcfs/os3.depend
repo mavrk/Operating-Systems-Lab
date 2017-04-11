@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1136105891 source:c:\documents and settings\bit\desktop\admin\new folder\os3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1136057292 source:g:\admin\os\os3\main.c
+	<stdio.h>
+	<stdlib.h>
+
